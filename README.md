@@ -13,6 +13,7 @@ Os padrões usados foram do capitulo 6 do livro Engenharia de Software Moderna d
 Padrões utilizados: Fábrica, Singleton, Proxy, Adaptador, Fachada, Decorador, Strategy, Observador, Template Method, Visitor.
 
 Referência:
+
 Marco Tulio Valente. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade, Editora: Independente, 2020. (bibtex)
 
 
