@@ -1,4 +1,4 @@
-FERIADO FELIZ COM PADROES :)
+FERIADO FELIZ COM PADRÕES :)
 
 Por: Lívia Costa da Silva
 
